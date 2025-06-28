@@ -5,9 +5,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there, I'm Pavel!</h1>
-
-Welcome to my GitHub profile! 
+<h1 align="center">👋 Hi there, I'm Pavel! Welcome to my GitHub profile! </h1>
 
 ###
 
@@ -26,35 +24,34 @@ Aim for continuous professional growth and development, as well as participating
 
 <h3 align="left">🛠️ My Skills</h3>
 
-<h4>Languages & Platforms</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="60" height="60"/>
+  <b>Languages & Platforms:</b><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <br><br>
+  
+  <b>Technologies & Frameworks:</b><br>
+  <img src="https://img.shields.io/badge/WPF-0C54C6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-0E5C9E?style=flat-square&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevExpress-FF6D00?style=flat-square"/>
+  <br><br>
+
+  <b>Databases:</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <br><br>
+
+  <b>Tools & Services:</b><br>
+  <img src="https://img.shields.io/badge/Hangfire-FF0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Minio-00ADEF?style=flat-square"/>
 </p>
 
-<h4>Technologies & Frameworks</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" alt="WPF" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="Web API" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/grpc/grpc-web/master/doc/img/grpc_logo.png" alt="gRPC" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DevExpress_logo.svg/1200px-DevExpress_logo.svg.png" alt="DevExpress" width="60" height="60"/>
-</p>
+###
 
-<h4>Databases</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="60" height="60"/>
-</p>
-
-<h4>Tools & Services</h4>
-<p align="left">
-  <img src="https://hangfire.io/assets/img/hangfire-logo.svg" alt="Hangfire" width="60" height="60"/>
-  <img src="https://min.io/resources/img/logo-minio.svg" alt="Minio" width="60" height="60"/>
-</p>
-
-### 📈 Статистика профиля
+<h3 align="left">📊 My GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -64,6 +61,9 @@ Aim for continuous professional growth and development, as well as participating
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📫 Мои соцсети
