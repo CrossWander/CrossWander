@@ -83,11 +83,11 @@ Aim for continuous professional growth and development, as well as participating
       <div>ElasticSearch</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" width="60" height="60" alt="Hangfire" />
+      <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="60" height="60" alt="Hangfire" />
       <div>Hangfire</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" width="60" height="60" alt="Minio" />
+      <img src="https://cdn-images-1.medium.com/max/2400/0*p5mmeA6oj2CUiYFr" width="60" height="60" alt="Minio" />
       <div>Minio</div>
     </td>
   </tr>
