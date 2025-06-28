@@ -1,4 +1,19 @@
-### Привет! 👋 Меня зовут Павел
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Павел!</h1>
+
+###
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer | 🛸 Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 - 🔭 Сейчас я работаю над **WPF приложениями для автоматизации складской логистики**
 - 🌱 Изучаю **архитектуру высоконагруженных систем и DevOps-практики**
