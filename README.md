@@ -90,11 +90,14 @@ Aim for continuous professional growth and development, as well as participating
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="60" height="60" alt="Hangfire" />
       <div>Hangfire</div>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding:10px;">
       <img src="https://blog.min.io/content/images/size/w2000/2019/05/0_hReq8dEVSFIYJMDv.png" width="60" height="60" alt="Minio" />
       <div>Minio</div>
     </td>
   </tr>
+  
 </table>
 
 ###
