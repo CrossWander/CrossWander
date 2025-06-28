@@ -51,6 +51,17 @@ Aim for continuous professional growth and development, as well as participating
 </p>
 ---
 
-### 📫 Мои соцсети
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_TG)
+
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="left">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ТВОЙ_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ТВОЙ_TG">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+</p>
