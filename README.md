@@ -10,7 +10,19 @@
 ###
 
 <div align="center">
-<h3>💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+  <h3>💻 Full Stack .Net Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+
+  <p>
+    <a href="mailto:youremail@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="[https://linkedin.com/in/ТВОЙ_LINKEDIN](https://www.linkedin.com/in/pavlo-dykalo/)">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://t.me/ТВОЙ_TG">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
 <h3 align="left">👩‍💻  About</h3>
@@ -48,20 +60,4 @@ Aim for continuous professional growth and development, as well as participating
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
-
-
-<h3 align="left">📫 Connect with me</h3>
-
-<p align="left">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ТВОЙ_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/ТВОЙ_TG">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-  </a>
 </p>
