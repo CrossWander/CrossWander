@@ -36,30 +36,62 @@ Aim for continuous professional growth and development, as well as participating
 
 <h3 align="left">🛠️ My Skills</h3>
 
-<p align="left">
-  <b>Languages & Platforms:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="vertical-align:middle"/> C#&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="48" height="48" style="vertical-align:middle"/> .NET Core
-  <br><br>
-  
-  <b>Technologies & Frameworks:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="WPF" width="48" height="48" style="vertical-align:middle"/> WPF&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="Web API" width="48" height="48" style="vertical-align:middle"/> Web API&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" alt="gRPC" width="48" height="48" style="vertical-align:middle"/> gRPC&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" alt="DevExpress" width="48" height="48" style="vertical-align:middle"/> DevExpress
-  <br><br>
-
-  <b>Databases:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="vertical-align:middle"/> PostgreSQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="48" height="48" style="vertical-align:middle"/> MS SQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="vertical-align:middle"/> MongoDB&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="48" height="48" style="vertical-align:middle"/> ElasticSearch
-  <br><br>
-
-  <b>Tools & Services:</b><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" alt="Hangfire" width="48" height="48" style="vertical-align:middle"/> Hangfire&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" alt="Minio" width="48" height="48" style="vertical-align:middle"/> Minio
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
+      <div>C#</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" alt=".NET Core" />
+      <div>.NET Core</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60" alt="WPF" />
+      <div>WPF</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" alt="Web API" />
+      <div>Web API</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" width="60" height="60" alt="gRPC" />
+      <div>gRPC</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" width="60" height="60" alt="DevExpress" />
+      <div>DevExpress</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" />
+      <div>PostgreSQL</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60" alt="MS SQL" />
+      <div>MS SQL</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+      <div>MongoDB</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="60" height="60" alt="ElasticSearch" />
+      <div>ElasticSearch</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" width="60" height="60" alt="Hangfire" />
+      <div>Hangfire</div>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" width="60" height="60" alt="Minio" />
+      <div>Minio</div>
+    </td>
+  </tr>
+</table>
 
 ###
 <!--
