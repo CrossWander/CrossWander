@@ -36,18 +36,71 @@ Aim for continuous professional growth and development, as well as participating
 
 <h3 align="left">🛠️ My Skills</h3>
 
-<p align="left">
-  <b>Languages & Platforms:</b> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br>
-  
-  <b>Technologies & Frameworks:</b> <img src="https://img.shields.io/badge/WPF-0C54C6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-0E5C9E?style=flat-square&logo=grpc&logoColor=white"/> <img src="https://img.shields.io/badge/DevExpress-FF6D00?style=flat-square"/><br>
-
-  <b>Databases:</b> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <br>
-
-  <b>Tools & Services:</b> <img src="https://img.shields.io/badge/Hangfire-FF0000?style=flat-square"/> <img src="https://img.shields.io/badge/Minio-00ADEF?style=flat-square"/>
-</p>
+<table>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">C#</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt=".NET Core" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">.NET Core</td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="WPF" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">WPF</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="Web API" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">Web API</td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" alt="gRPC" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">gRPC</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" alt="DevExpress" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">DevExpress</td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">PostgreSQL</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="MS SQL" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">MS SQL</td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">MongoDB</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elasticsearch.svg" alt="ElasticSearch" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">ElasticSearch</td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" alt="Hangfire" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">Hangfire</td>
+    <td width="50" align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" alt="Minio" width="40" height="40" />
+    </td>
+    <td align="left" valign="middle">Minio</td>
+  </tr>
+</table>
 
 ###
-
+<!--
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <p align="center">
@@ -61,3 +114,4 @@ Aim for continuous professional growth and development, as well as participating
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrossWander&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
