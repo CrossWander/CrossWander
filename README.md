@@ -12,8 +12,7 @@
 ###
 
 <div align="center">
-<h3><img src="![Uploading giphy.gif…]()
-" width="50"> 💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3>💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 </div>
 
 - 🔭 Сейчас я работаю над **WPF приложениями для автоматизации складской логистики**
