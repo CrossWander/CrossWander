@@ -57,11 +57,11 @@ Aim for continuous professional growth and development, as well as participating
   </tr>
   <tr>
     <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" width="60" height="60" alt="gRPC" />
+      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*7grlavRpiwrdvU2rki8LPw.png" width="60" height="60" alt="gRPC" />
       <div>gRPC</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" width="60" height="60" alt="DevExpress" />
+      <img src="https://scontent.fdnk6-2.fna.fbcdn.net/v/t39.30808-6/326267742_551145573701528_740895907929104534_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ENYzltg-OZIQ7kNvwHfeihy&_nc_oc=AdlYDlfDWgQvMWOmTTqcEQnh_xGXqSZOD35ginjDcxUOzyN5yzmyjYbTU9VcuTYFg6I&_nc_zt=23&_nc_ht=scontent.fdnk6-2.fna&_nc_gid=uDw2vZxtWiwuL7zJXdzEpQ&oh=00_AfNGcTLe17hJag72a4YK4KbQVxcFG2dTw5_iK8DbeabAbQ&oe=68659BAE" width="60" height="60" alt="DevExpress" />
       <div>DevExpress</div>
     </td>
     <td align="center" style="padding:10px;">
