@@ -83,6 +83,10 @@ Aim for continuous professional growth and development, as well as participating
       <div>ElasticSearch</div>
     </td>
     <td align="center" style="padding:10px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" width="60" height="60" alt="Redis" />
+      <div>Redis</div>
+    </td>
+    <td align="center" style="padding:10px;">
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="60" height="60" alt="Hangfire" />
       <div>Hangfire</div>
     </td>
