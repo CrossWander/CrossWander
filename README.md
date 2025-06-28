@@ -83,7 +83,7 @@ Aim for continuous professional growth and development, as well as participating
       <div>ElasticSearch</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://images.seeklogo.com/logo-png/27/1/redis-logo-png_seeklogo-273850.png" width="60" height="60" alt="Redis" />
+      <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="60" height="60" alt="Redis" />
       <div>Redis</div>
     </td>
     <td align="center" style="padding:10px;">
