@@ -87,7 +87,7 @@ Aim for continuous professional growth and development, as well as participating
       <div>Hangfire</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://cdn-images-1.medium.com/max/2400/0*p5mmeA6oj2CUiYFr" width="60" height="60" alt="Minio" />
+      <img src="https://blog.min.io/content/images/size/w2000/2019/05/0_hReq8dEVSFIYJMDv.png" width="60" height="60" alt="Minio" />
       <div>Minio</div>
     </td>
   </tr>
