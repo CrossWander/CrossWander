@@ -38,8 +38,8 @@ Aim for continuous professional growth and development, as well as participating
 
 <p align="left">
   <b>Languages & Platforms:</b><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="24" height="24" style="vertical-align:middle"/> C#&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt=".NET Core" width="24" height="24" style="vertical-align:middle"/> .NET Core
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="24" height="24" style="vertical-align:middle"/> C#&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="24" height="24" style="vertical-align:middle"/> .NET Core
   <br><br>
   
   <b>Technologies & Frameworks:</b><br>
