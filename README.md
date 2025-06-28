@@ -38,27 +38,27 @@ Aim for continuous professional growth and development, as well as participating
 
 <p align="left">
   <b>Languages & Platforms:</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="24" height="24" style="vertical-align:middle"/> C#&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="24" height="24" style="vertical-align:middle"/> .NET Core
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="vertical-align:middle"/> C#&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="48" height="48" style="vertical-align:middle"/> .NET Core
   <br><br>
   
   <b>Technologies & Frameworks:</b><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg" alt="WPF" width="24" height="24" style="vertical-align:middle"/> WPF&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotnet.svg" alt="Web API" width="24" height="24" style="vertical-align:middle"/> Web API&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" alt="gRPC" width="24" height="24" style="vertical-align:middle"/> gRPC&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" alt="DevExpress" width="24" height="24" style="vertical-align:middle"/> DevExpress
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="WPF" width="48" height="48" style="vertical-align:middle"/> WPF&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="Web API" width="48" height="48" style="vertical-align:middle"/> Web API&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/grpc.svg" alt="gRPC" width="48" height="48" style="vertical-align:middle"/> gRPC&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devexpress.svg" alt="DevExpress" width="48" height="48" style="vertical-align:middle"/> DevExpress
   <br><br>
 
   <b>Databases:</b><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="24" height="24" style="vertical-align:middle"/> PostgreSQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="MS SQL" width="24" height="24" style="vertical-align:middle"/> MS SQL&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="24" height="24" style="vertical-align:middle"/> MongoDB&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elasticsearch.svg" alt="ElasticSearch" width="24" height="24" style="vertical-align:middle"/> ElasticSearch
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="vertical-align:middle"/> PostgreSQL&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="48" height="48" style="vertical-align:middle"/> MS SQL&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="vertical-align:middle"/> MongoDB&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="48" height="48" style="vertical-align:middle"/> ElasticSearch
   <br><br>
 
   <b>Tools & Services:</b><br>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" alt="Hangfire" width="24" height="24" style="vertical-align:middle"/> Hangfire&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" alt="Minio" width="24" height="24" style="vertical-align:middle"/> Minio
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hangfire.svg" alt="Hangfire" width="48" height="48" style="vertical-align:middle"/> Hangfire&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minio.svg" alt="Minio" width="48" height="48" style="vertical-align:middle"/> Minio
 </p>
 
 ###
