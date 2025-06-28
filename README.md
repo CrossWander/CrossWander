@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-<h3><img src="https://github.com/user-attachments/assets/6e480829-8c49-4831-bd9e-d515b098a0e9" width="30"> 💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkbzhpdXpzZDY1enhucXRscXV2cjZkMm04NDJsZTM3em4zN3R1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width="50"> 💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkbzhpdXpzZDY1enhucXRscXV2cjZkMm04NDJsZTM3em4zN3R1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" width="50"></h3>
 </div>
 
 - 🔭 Сейчас я работаю над **WPF приложениями для автоматизации складской логистики**
