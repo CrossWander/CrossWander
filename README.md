@@ -25,28 +25,13 @@ Aim for continuous professional growth and development, as well as participating
 <h3 align="left">🛠️ My Skills</h3>
 
 <p align="left">
-  <b>Languages & Platforms:</b><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <br><br>
+  <b>Languages & Platforms:</b> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br>
   
-  <b>Technologies & Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/WPF-0C54C6?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-0E5C9E?style=flat-square&logo=grpc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevExpress-FF6D00?style=flat-square"/>
-  <br><br>
+  <b>Technologies & Frameworks:</b> <img src="https://img.shields.io/badge/WPF-0C54C6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-0E5C9E?style=flat-square&logo=grpc&logoColor=white"/> <img src="https://img.shields.io/badge/DevExpress-FF6D00?style=flat-square"/><br>
 
-  <b>Databases:</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  <br><br>
+  <b>Databases:</b> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <br>
 
-  <b>Tools & Services:</b><br>
-  <img src="https://img.shields.io/badge/Hangfire-FF0000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Minio-00ADEF?style=flat-square"/>
+  <b>Tools & Services:</b> <img src="https://img.shields.io/badge/Hangfire-FF0000?style=flat-square"/> <img src="https://img.shields.io/badge/Minio-00ADEF?style=flat-square"/>
 </p>
 
 ###
