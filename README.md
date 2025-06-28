@@ -54,8 +54,6 @@ Aim for continuous professional growth and development, as well as participating
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" alt="Web API" />
       <div>Web API</div>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding:10px;">
       <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*7grlavRpiwrdvU2rki8LPw.png" width="60" height="60" alt="gRPC" />
       <div>gRPC</div>
@@ -90,8 +88,6 @@ Aim for continuous professional growth and development, as well as participating
       <img src="https://avatars.githubusercontent.com/u/7880472?s=200&v=4" width="60" height="60" alt="Hangfire" />
       <div>Hangfire</div>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding:10px;">
       <img src="https://blog.min.io/content/images/size/w2000/2019/05/0_hReq8dEVSFIYJMDv.png" width="60" height="60" alt="Minio" />
       <div>Minio</div>
