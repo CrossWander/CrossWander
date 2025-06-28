@@ -1,4 +1,4 @@
-<br clear="both">
+![giphy](https://github.com/user-attachments/assets/1c726e58-5b68-4f57-8d50-7d237bcde64a)<br clear="both">
 
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer | 🛸 Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://github.com/user-attachments/assets/6e480829-8c49-4831-bd9e-d515b098a0e9" width="30"> 💻 Full Stack Developer | 🛰️ Dnipro UA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 - 🔭 Сейчас я работаю над **WPF приложениями для автоматизации складской логистики**
