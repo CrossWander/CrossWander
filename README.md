@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/pavlo-dykalo">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://t.me/pro100men">
+    <a href="https://t.me/pro101men">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
     </a>
   </p>
