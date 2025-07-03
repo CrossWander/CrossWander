@@ -25,6 +25,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=crosswander.crosswander" />
+</div>
+
 <h3 align="left">👩‍💻  About</h3>
 
 <p align="left">Hello! I am an experienced .NET developer.
