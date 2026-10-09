@@ -59,11 +59,11 @@ Aim for continuous professional growth and development, as well as participating
       <div>Web API</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*7grlavRpiwrdvU2rki8LPw.png" width="60" height="60" alt="gRPC" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grpc/default.svg" width="60" height="60" alt="gRPC" />
       <div>gRPC</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://avatars.githubusercontent.com/u/4243232?s=200&v=4" width="60" height="60" alt="DevExpress" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/devexpress/default.svg" width="60" height="60" alt="DevExpress" />
       <div>DevExpress</div>
     </td>
     <td align="center" style="padding:10px;">
