@@ -97,7 +97,7 @@ Aim for continuous professional growth and development, as well as participating
       <div>Minio</div>
     </td>
     <td align="center" style="padding:10px;">
-      <img src="https://avatars.githubusercontent.com/u/931666?s=48&v=4" width="60" height="60" alt="SignalR" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-signalr/default.svg" width="60" height="60" alt="SignalR" />
       <div>SignalR</div>
     </td>
   </tr>
